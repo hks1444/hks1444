@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hks1444
 - 👀 I’m interested in machine learning, coding and problem solving.
-- 🌱 I’m currently learning data structures and algorithms.
+- 🌱 I’m currently learning NLP and Sequence Modelling.
 - 💞️ I’m looking to collaborate with anyone enthusiastic about computer science.
 - 📫 How to reach me www.linkedin.com/in/hasan-kerem-seker or sekerhasan164@gmail.com
 
